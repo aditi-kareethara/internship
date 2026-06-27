@@ -1,4 +1,5 @@
 🐧 Palmer Archipelago Penguin Classification
+
 An end-to-end machine learning project that classifies penguin species (Adelie, Chinstrap, Gentoo) from the Palmer Archipelago dataset using Decision Trees and Random Forests.
 
 🎯 Overview
